@@ -1,1 +1,1 @@
-this projet is a porject to learn git
+this projet is a project to learn git
